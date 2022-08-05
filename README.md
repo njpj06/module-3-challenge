@@ -1,1 +1,3 @@
-# module-3-challenge
+# Password Generator Starter Code
+
+This website was created with the purpose of generating passwords for any person, It will randomly generate passwords based on your needs or requirments,When prompted for the length of the password choose a length of at least 8 characters and no more than 128 characters When asked for character types to include in the password Then confirm whether or not to include lowercase, uppercase, numeric, and/or special characters When I answer each prompt Then my input should be validated and at least one character type should be selected When all prompts are answered Then a password is generated that matches the selected criteria When the password is generated Then the password is either displayed in an alert or written to the page meeting your requirments.
